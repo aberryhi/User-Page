@@ -3,9 +3,9 @@
 
 **Welcome to my user page!** This page was created for Lab 1 in CSE 110.
 
-- [Section 1]() 
-- [Section 2]()
-- [Section 3]()
+- [Section 1](#section-1) 
+- [Section 2](#section-2)
+- [Section 3](#section-3)
 
 ## Section 1
 
@@ -37,7 +37,7 @@ for(int i=0; i<10; i++){
 - [x] Quoting text
 - [x] Quoting code
 - [x] Links
-- [ ] Section links
+- [x] Section links
 - [x] Relative links
 - [x] Lists
 - [x] Task lists
