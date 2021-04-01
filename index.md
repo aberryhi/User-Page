@@ -32,13 +32,13 @@ for(int i=0; i<10; i++){
 
 ## Section 3
 
-- [x] Headings
-- [x] Styling text
-- [x] Quoting text
-- [x] Quoting code
-- [x] Links
-- [x] Section links
-- [x] Relative links
-- [x] Lists
-- [x] Task lists
-- [ ] Unchecked box
+- [x]  Headings
+- [x]  Styling text
+- [x]  Quoting text
+- [x]  Quoting code
+- [x]  Links
+- [x]  Section links
+- [x]  Relative links
+- [x]  Lists
+- [x]  Task lists
+- [ ]  Unchecked box
